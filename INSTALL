@@ -1,9 +1,9 @@
-Building KRCCoin
+Building KaraCoin
 
-See doc/readme-qt.rst for instructions on building KRCcoin-qt,
+See doc/readme-qt.rst for instructions on building Karacoin-qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of KRCCoin.
+implementation of KaraCoin.
 
-See doc/build-*.txt for instructions on building KRCcoin,
+See doc/build-*.txt for instructions on building Karacoin,
 the intended-for-services, no-graphical-interface, reference
-implementation of KRCCoin.
+implementation of KaraCoin.
